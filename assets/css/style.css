@@ -57,3 +57,33 @@
     position: relative;
     right: 5px;
 }
+
+#main {
+    width: 580px;
+    height: 630px;
+    border: 1px solid black;
+    position: relative;
+    left: 120px;
+    top: -704px;
+}
+
+#col1 {
+    float: left;
+    width: 200px;
+    height: 630px;
+    border: 1px dashed black;
+}
+
+#col2 {
+    float: right;
+    width: 300px;
+    height: 630px;
+    border: 1px dashed black;
+}
+
+#box1, #box2 {
+    height: 20px;
+    width: 20px;
+    border: 1px solid black;
+    margin: auto;
+}
